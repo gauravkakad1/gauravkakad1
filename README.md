@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm GAURAV KAKAD</h1>
 <h3 align="center">A passionate Flutter App developer and full stack Web developer from India.</h3>
 
-- 🔭 I’m currently working on [Hostel Management System](https://github.com/OmAwari142002/Hostel-Management-System)
+- 🔭 I’m currently working at AssetCues
 
 - 🌱 I’m currently learning **Blockchain Development and Android App Developemnt.**
 
